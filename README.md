@@ -1,1 +1,1 @@
-# GO-langauge
+# GO-language
